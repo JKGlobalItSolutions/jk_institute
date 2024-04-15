@@ -138,7 +138,7 @@ h6, .h6 {
 
 .btn-primary {
   color: #fff;
-  background-color: #ffbc3b;
+  /* background-color: #ffbc3b; */
 }
 .btn-primary::before {
   background-color: #fff;
